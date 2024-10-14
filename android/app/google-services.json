@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "264215432384",
+    "project_id": "elearningapp-2a332",
+    "storage_bucket": "elearningapp-2a332.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264215432384:android:786fb4c8ccb30c34107125",
+        "android_client_info": {
+          "package_name": "com.example.elearning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "264215432384-73evduvi0rtkdk4a5vabh91999kbokbg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.elearning",
+            "certificate_hash": "bfe0b26fa746d0ff75ab0a3319c0f72e7f3e7d19"
+          }
+        },
+        {
+          "client_id": "264215432384-e8guudrg3rk0hlu1pvd547kaeaihf6mf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFjIf0SV2wlUM08k8Y4RPcv2Sw-lEl5-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "264215432384-2supuckbkshnmui3uosko4npi49r8h18.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "264215432384-ouh73sdbplo2f6pai2ko81eqqe6vhprj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.elearningapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264215432384:android:e9d83b619e66cd12107125",
+        "android_client_info": {
+          "package_name": "com.example.elearningapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "264215432384-cq3pd0o74oah8itkfc7heshi3tha15a9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.elearningapp",
+            "certificate_hash": "5865d9b30dec9460d757424af06d9f779f8af2d7"
+          }
+        },
+        {
+          "client_id": "264215432384-e8guudrg3rk0hlu1pvd547kaeaihf6mf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFjIf0SV2wlUM08k8Y4RPcv2Sw-lEl5-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "264215432384-2supuckbkshnmui3uosko4npi49r8h18.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "264215432384-ouh73sdbplo2f6pai2ko81eqqe6vhprj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.elearningapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
